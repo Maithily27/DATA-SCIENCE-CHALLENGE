@@ -1,1 +1,15 @@
 # DATA-SCIENCE-CHALLENGE
+This project requires you to independently complete the following steps:
+
+
+•
+Importing and preprocessing data
+
+•
+Analyze the data
+
+•
+Build machine learning models
+
+•
+Evaluate machine learning models
